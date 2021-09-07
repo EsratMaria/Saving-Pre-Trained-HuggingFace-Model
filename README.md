@@ -2,6 +2,8 @@
 
 In this repo, I demostrate how to save a 🤗 model for offline use.
 
-`Demonstrated Model: indic-bert`
+- Includes
 
-`Initializing Git LFS to save big files`
+        `Demonstrated Model: indic-bert`
+
+        `Initializing Git LFS to save big files`
