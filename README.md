@@ -2,7 +2,7 @@
 
 In this repo, I demostrate how to save a 🤗 model for offline use.
 
-- Includes, 
+- Includes,
 
         Demonstrated Model: indic-bert
 
